@@ -37,3 +37,15 @@ probleme 15:> inverse array .
 probleme 16:> duplicate Char or String like function(ab,2) =>   ababab 
 
 probleme 17:> getMax() , getMin() from Array .
+
+probleme 18:> manipuler Matrix . 
+
+probleme 19:> Each time a portion of an array is taken and shown .
+
+probleme 21:> random array elemnt " change position element in array "
+
+probleme 22:> copier value to auther value from array like  [1,2,3,4,5,8,6] => [1,2,3,4,5,8,4] chnage 6 to 4 .
+
+probleme 23:> dispaly elements arr1 not esixt in arr2 .
+
+probleme 24:> Check if two array equals or not .
