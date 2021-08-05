@@ -1,5 +1,5 @@
 //**how many string repeat in text and display what is repeat more or used more   */
-//** not!!!!!!! */
+
 
 const text = "Help Teaching  makes it easy to create. Choose questions from our library of questions or create ";
 

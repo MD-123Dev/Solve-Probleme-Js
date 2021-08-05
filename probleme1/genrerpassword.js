@@ -5,7 +5,7 @@ function genererPassword(){
 
     const arrymots = ['A','B','C','D','E','F','G','H','I','L','Y','Z','1','2','3','4','K','U','@','r','_'];
 
-    const countpassword = 14;
+    //const countpassword = 14;
 
     var z = [];
 
