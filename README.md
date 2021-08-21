@@ -6,11 +6,11 @@ solve problem with Js
 
 probleme 1 :> generer password automatic .
 
-probleme 2:> crypatge
+probleme 2:> cryptage
 
 probleme 3:> array 2 * array 1 
 
-probleme 4:> sum total  array 1 + array 2 + array 3 .
+probleme 4:> sum total :  array 1 + array 2 + array 3 .
 
 probleme 5:> sort chart native ( sans utliser fonction existe )
 
@@ -42,10 +42,10 @@ probleme 18:> manipuler Matrix .
 
 probleme 19:> Each time a portion of an array is taken and shown .
 
-probleme 21:> random array elemnt " change position element in array "
+probleme 21:> random array element " change position element in array "
 
-probleme 22:> copier value to auther value from array like  [1,2,3,4,5,8,6] => [1,2,3,4,5,8,4] chnage 6 to 4 .
+probleme 22:> copier value to another value from array like :  [1,2,3,4,5,8,6] => [1,2,3,4,5,8,4] chnage 6 to 4 .
 
-probleme 23:> dispaly elements arr1 not esixt in arr2 .
+probleme 23:> dispaly elements in arr1 not esixt in arr2 .
 
 probleme 24:> Check if two array equals or not .
