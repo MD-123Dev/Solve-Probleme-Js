@@ -6,7 +6,7 @@ solve problem with Js
 
 probleme 1 :> generer password automatic .
 
-probleme 2:> cryptage
+probleme 2:> cryptage simple
 
 probleme 3:> array 2 * array 1 
 
